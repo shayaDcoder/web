@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.row
+{
+    
+    border: 2px solid purple;
+    display: table;
+}
+.box1{
+    width: 300px;
+    border: 2px solid red;
+    float: left;
+    background-color: aqua;
+}
+
+.box2{
+    width: 300px;
+    border: 2px solid blue;
+    float: left;
+    background-color: aqua;
+
+}
+
+.box3{
+    
+    border: 2px solid green;
+    clear: right;
+}

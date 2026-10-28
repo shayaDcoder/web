@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content{
+    width: 1180px;
+    margin: 0 auto 0 auto;
+
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    float: left;
+}
